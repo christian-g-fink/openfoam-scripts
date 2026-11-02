@@ -8,6 +8,8 @@
 !analyze_flow.py
 !analyze_energy_transport.py
 !run_cfd_simulation.py
+!export_fluent_mesh.py
+!CLAUDE.md
 !README.TXT
 !visualize_pressure.py
 !visualize_velocity.py
