@@ -1,0 +1,14 @@
+# 1. Ignore everything in the repository
+*
+
+# 2. Prevent the .gitignore file itself from being ignored
+!.gitignore
+
+# 3. Explicitly allow the files or extensions you want to track
+!analyze_flow.py
+!analyze_energy_transport.py
+!run_cfd_simulation.py
+!README.TXT
+!visualize_pressure.py
+!visualize_velocity.py
+
